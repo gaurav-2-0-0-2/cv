@@ -1,0 +1,34 @@
+body {
+    background-color: #EAF6F6;
+  }
+
+
+  h1{
+      text-shadow: 1px 2px green;
+    color: #66BFBF;
+}
+
+h3 {
+    text-shadow: 1px 2px rgb(23, 11, 197);
+    color: #66BFBF;
+}
+
+
+  hr{
+   
+    border-style: none;
+    border-top-style:dotted ;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+
+ 
+  }
+  .goku{
+    border-radius: 100%;
+  }
+  img{
+    background-color: gold;
+    height: 200px;
+  }
+    
